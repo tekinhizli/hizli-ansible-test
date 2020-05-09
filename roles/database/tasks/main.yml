@@ -1,0 +1,5 @@
+---
+- name: Install Mysql database
+  win_chocolatey:
+    name: mysql
+    state: present
