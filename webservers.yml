@@ -3,4 +3,4 @@
   roles:
     - webserver
     - common
-    - command
+    - Command
